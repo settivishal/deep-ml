@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:35:10.097Z",
+  "generated_at": "2026-11-18T01:45:08.630Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -101,6 +101,19 @@
       "last_pushed_at": "2026-11-18T01:35:09.438Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2026-11-18T01:45:08.059Z",
+      "last_pushed_at": "2026-11-18T01:45:08.059Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }
