@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 12 problems · 0 labs · 9 math
+**22** solved · 13 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-11-23 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-11-18 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-11-23 | [solution](problems/0278-implement-precision-recall-curve) |
+| [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-11-25 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-18 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-11-18 | [solution](problems/0801-polynomial-regression-fit) |
 
