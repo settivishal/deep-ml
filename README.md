@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 14 problems · 0 labs · 9 math
+**24** solved · 15 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-11-23 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-11-25 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-18 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [Permutation Feature Importance](https://www.deep-ml.com/problems/812) | medium | 2026-11-25 | [solution](problems/0812-permutation-feature-importance) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-11-18 | [solution](problems/0801-polynomial-regression-fit) |
 
 ## Math

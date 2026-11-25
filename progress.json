@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:33:29.651Z",
+  "generated_at": "2026-11-25T20:42:05.983Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -281,6 +281,19 @@
       "last_pushed_at": "2026-11-25T20:33:28.967Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:812": {
+      "kind": "problem",
+      "id": "812",
+      "title": "Permutation Feature Importance",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/812",
+      "path": "problems/0812-permutation-feature-importance",
+      "first_solved_at": "2026-11-25T20:42:05.308Z",
+      "last_pushed_at": "2026-11-25T20:42:05.308Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
