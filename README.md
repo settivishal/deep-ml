@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 15 problems · 0 labs · 9 math
+**25** solved · 15 problems · 1 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-18 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Permutation Feature Importance](https://www.deep-ml.com/problems/812) | medium | 2026-11-25 | [solution](problems/0812-permutation-feature-importance) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-11-18 | [solution](problems/0801-polynomial-regression-fit) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-11-27 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 
 ## Math
 
